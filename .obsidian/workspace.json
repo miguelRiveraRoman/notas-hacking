@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "3d065f275aeeaff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 - General Skills/Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +185,14 @@
   },
   "active": "144dc3e5ad722f07",
   "lastOpenFiles": [
+    "README.md",
+    "picoCTF/01 - General Skills/Sin título.md",
+    "Sin título 1.md",
     "picoCTF/01 - General Skills",
     "picoCTF/01-General Skills",
     "picoCTF/Nueva carpeta",
     "Sin nombre",
     "picoCTF",
-    "cree un enlace.md",
-    "README.md"
+    "cree un enlace.md"
   ]
 }
