@@ -16,3 +16,15 @@ ultralitogodofredo@gmail.com
 	- what's a net cat?
 	- Glitch Cat
 	- Nice netcat...
+
+02-General Skills
+	- Based
+	- strings it
+	- Wave a flag
+	- Static ain't always noise
+	- useless
+	- Tab, Tab, Attack
+	- Magikarp Ground Mission
+	- repetitions
+	- Big zip
+	- First Find

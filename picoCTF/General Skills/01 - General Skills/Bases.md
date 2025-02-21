@@ -6,7 +6,7 @@ What does this `bDNhcm5fdGgzX3IwcDM1` mean? I think it has something to do wit
 ### Solución
 import base64
 
-  
+  ![[Pasted image 20250220142905.png]]
 
 base64.b64decode('bDNhcm5fdGgzX3IwcDM1')
 
