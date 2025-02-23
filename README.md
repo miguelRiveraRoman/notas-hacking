@@ -28,3 +28,15 @@ ultralitogodofredo@gmail.com
 	- repetitions
 	- Big zip
 	- First Find
+03-General Skills 3
+
+- Super SSH
+- runme.py
+- Codebook
+- convertme.py
+- fixme1.py
+- fixme2.py
+- PW Crack 1
+- PW Crack 2
+- PW Crack 3
+- Serpentine
